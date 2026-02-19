@@ -1,6 +1,6 @@
 # Network Inventory & Subnet Planner (Python CLI)
 
-#### Video Demo: <PASTE YOUR UNLISTED YOUTUBE LINK HERE>
+#### Video Demo: <[(https://youtu.be/6q5NTOeDYgE)]>
 
 ## Description
 
